@@ -1,0 +1,19 @@
+{
+  "name": "mf-user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mf-lib": "git+https://github.com/TheFlashBold/mf-lib.git",
+    "role-acl": "^4.4.0"
+  }
+}
