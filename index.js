@@ -1,3 +1,3 @@
 module.exports = {
-    module: require('./lib/AuthModule')
+    module: require('./lib/UserModule')
 };
